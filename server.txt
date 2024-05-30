@@ -49,6 +49,6 @@ Kaio.Pro thu mua Nick tự động, AE thanh lý Nick lên Web nhé![/qc2]
 [time]696969696969696969[/time]
 
 [time2]696969696969696969[/time2]
-[type1]NRO Tabi:247.245.102.218:14445:0,0,0[/type1]
+[type1]Server 1:112.213.94.23:14445:0,Server 2:210.211.109.199:14445:0,Server 3:112.213.85.88:14445:0,Server 4:27.0.12.164:14445:0,Server 5:27.0.12.16:14445:0,Server 6:27.0.12.173:14445:0,Server 7:112.213.94.223:14445:0,Server 8:27.0.14.66:14446:0,Server 9:27.0.14.66:14447:0,Server 10:27.0.14.66:14445:0,Server 11:112.213.85.35:14445:0,Server 12:112.213.85.53:14445:0,Liên Server:27.0.12.173:20000:0,Server World:54.179.255.27:14445:0,Server Indonaga:54.179.255.27:14446:0,0,0[/type1]
 
-[type2]NRO Tabi:247.245.102.218:14445:0,0,0[/type2]</div>
+[type2]Server 1:dragon1.teamobi.com:14445:0,Server 2:dragon2.teamobi.com:14445:0,Server 3:dragon3.teamobi.com:14445:0,Server 4:dragon4.teamobi.com:14445:0,Server 5:dragon5.teamobi.com:14445:0,Server 6:dragon6.teamobi.com:14445:0,Server 7:dragon7.teamobi.com:14445:0,Server 8:dragon10.teamobi.com:14446:0,Server 9:dragon10.teamobi.com:14447:0,Server 10:dragon10.teamobi.com:14445:0,Server 11:dragon11.teamobi.com:14445:0,Server 12:dragon12.teamobi.com:14445:0,Liên Server:dragonwar.teamobi.com:20000:0,Server World:dragon.indonaga.com:14445:0,Server Indonaga:dragon.indonaga.com:14446:0,0,0[/type2]</div>
